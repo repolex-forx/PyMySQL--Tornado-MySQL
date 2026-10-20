@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/PyMySQL/Tornado-MySQL/commit/75d3466e4332e43b2bf853799f1122dec5da60bc",
       "git:hexsha": "75d3466e4332e43b2bf853799f1122dec5da60bc",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/PyMySQL/Tornado-MySQL/commit/a4ee3e9c844cef597d6a54a7e875a2d5c8f4aade",
